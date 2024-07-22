@@ -1,0 +1,10 @@
+{
+  "references": [
+    {
+      "title": "Random feedback weights support learning in deep neural networks",
+      "url": "https://arxiv.org/abs/1411.0247",
+      "year": 2014
+    }
+  ],
+  "tags": ["Julia", "Deep Learning", "Neural Networks", "Meta-learning"]
+}
