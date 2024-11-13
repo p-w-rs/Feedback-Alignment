@@ -1,4 +1,5 @@
 {
+  "description": "Implementation of the feedback alignment algorithm for training deep neural networks in Julia.",
   "status": "DONE",
   "references": [
     {
